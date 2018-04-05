@@ -1,0 +1,4 @@
+export const START_REQUEST='START_REQUEST';
+export const GET_COUNTRIES='GET_COUNTRIES';
+
+export const  GET_SINGLE_DATA='GET_SINGLE_DATA'
